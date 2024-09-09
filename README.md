@@ -2,6 +2,8 @@
 
 ## Create Project Virtual Environment
 
+On windows, create a project virtual environment in the .venv folder
+
 ```shell
 
 For PowerShell (Windows): python -m venv .venv
