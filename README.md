@@ -12,7 +12,7 @@ py -m pip install -r requirements.txt
 
 ```
 
-## Git add and commit 
+## Git add, commit, push
 
 ```shell
 git add .
