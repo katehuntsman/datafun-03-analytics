@@ -1,4 +1,4 @@
-# datafun-03-project
+## Data Processing and Fetching
 
 ## Create Project Virtual Environment
 
@@ -12,12 +12,12 @@ Install the required dependencies: py m pip install -r requirements.txt
 
 ```
 
-## Git add, commit, push 
+## Git add/commit/push 
 
 ```shell
 
 git add .
-git commit -m "add .gitignore, update README with cmds"
+git commit -m "add .gitignore, update README.md with cmds"
 git push -u origin main
 
 ```
