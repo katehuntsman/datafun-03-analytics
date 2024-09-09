@@ -5,7 +5,7 @@
 ```shell
 
 For PowerShell (Windows): python -m venv .venv
-For Bash (Linux, macOS): .venv\Scripts\Activate
+For Bash/Zsh (Linux, macOS): .venv\Scripts\Activate
 Install the required dependencies: py m pip install -r requirements.txt
 
 ```
